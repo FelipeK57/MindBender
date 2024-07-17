@@ -1,0 +1,294 @@
+body {
+  background-image: url("src/assets/layer.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  height: 100vh;
+  margin: 0;
+  font-family: "Raleway", sans-serif;
+}
+
+/* HEADER STYLES */
+
+.header-container {
+  height: 4vh;
+  font-size: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.4);
+  box-shadow: 1px 1px 10px #333;
+}
+
+/* HOME STYLES */
+
+.home-container {
+  width: 100%;
+  height: 96vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+}
+
+.title-home {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.topics-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 30px;
+}
+
+.topics-container button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  height: 50px;
+  border-radius: 20px;
+  border-style: none;
+  color: white;
+  width: 200px;
+  font-weight: 600;
+  font-size: 20px;
+  box-shadow: 1px 3px 10px #585555;
+  font-family: "Raleway", sans-serif;
+  cursor: pointer;
+}
+
+.topic-music {
+  background: #f7971e; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #ffd200,
+    #f7971e
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #ffd200,
+    #f7971e
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  transition: 500ms;
+}
+
+.topic-music:hover {
+  transition: 500ms;
+  box-shadow: 1px 1px 10px #d9c974;
+}
+
+.topic-sports {
+  background: #11998e; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #38ef7d,
+    #11998e
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #38ef7d,
+    #11998e
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  transition: 500ms;
+}
+
+.topic-sports:hover {
+  transition: 500ms;
+  box-shadow: 1px 1px 10px #9ee293;
+}
+
+.topic-history {
+  background: #fe8c00; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #f83600,
+    #fe8c00
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #f83600,
+    #fe8c00
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  transition: 500ms;
+}
+
+.topic-history:hover {
+  transition: 500ms;
+  box-shadow: 1px 1px 10px #e5a264;
+}
+
+.topic-science {
+  background: #667db6; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #667db6,
+    #0082c8,
+    #0082c8,
+    #667db6
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #667db6,
+    #0082c8,
+    #0082c8,
+    #667db6
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  transition: 500ms;
+}
+
+.topic-science:hover {
+  transition: 500ms;
+  box-shadow: 1px 1px 10px #68d1d8;
+}
+
+.topic-art {
+  background: #da4453; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #89216b,
+    #da4453
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #89216b,
+    #da4453
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  transition: 500ms;
+}
+
+.topic-art:hover {
+  transition: 500ms;
+  box-shadow: 1px 1px 10px #ef7cc8;
+}
+
+.topic-enterteiment {
+  background: #ed213a; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #93291e,
+    #ed213a
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #93291e,
+    #ed213a
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  transition: 500ms;
+}
+
+.topic-enterteiment:hover {
+  transition: 500ms;
+  box-shadow: 1px 1px 10px #fa7980;
+}
+
+/* GAME STYLES */
+
+.game-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 96vh;
+  width: 100%;
+}
+
+.header-game {
+  font-size: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 60%;
+  font-weight: bold;
+}
+
+.game {
+  font-size: 18px;
+  background-color: rgba(255, 255, 255, 0.4);
+  height: 70%;
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+}
+
+.answers-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+}
+
+.answers-container button {
+  width: 450px;
+  border-radius: 20px;
+  border-style: none;
+  height: 50px;
+  box-shadow: 1px 2px 10px #585555;
+  color: white;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.answer-1 {
+  background: #ed213a; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #93291e,
+    #ed213a
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #93291e, #ed213a);
+}
+
+.answer-1:hover {
+  transition: 500ms;
+  box-shadow: 1px 1px 10px red;
+}
+
+.answer-2 {
+  background: #667db6; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #667db6,
+    #0082c8,
+    #0082c8,
+    #667db6
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #667db6, #0082c8, #0082c8, #667db6);
+}
+
+.answer-3 {
+  background: #11998e; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #38ef7d,
+    #11998e
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #38ef7d,
+    #11998e
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  transition: 500ms;
+}
+
+.answer-4 {
+  background: #f7971e; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #ffd200,
+    #f7971e
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #ffd200, #f7971e);
+}
+
+.answer-4:hover {
+  transition: 500ms;
+  box-shadow: 1px 1px 10px #ffd200;
+}
