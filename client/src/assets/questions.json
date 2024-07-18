@@ -1,0 +1,1159 @@
+{
+  "historia": [
+    {
+      "id": 1,
+      "question": "¿En qué año comenzó la Primera Guerra Mundial?",
+      "answers": ["1912", "1914", "1916", "1918"],
+      "correctAnswer": "1914",
+      "funFact": "La guerra comenzó el 28 de julio de 1914."
+    },
+    {
+      "id": 2,
+      "question": "¿En qué año finalizó la Segunda Guerra Mundial?",
+      "answers": ["1943", "1945", "1947", "1950"],
+      "correctAnswer": "1945",
+      "funFact": "La Segunda Guerra Mundial terminó oficialmente el 2 de septiembre de 1945."
+    },
+    {
+      "id": 3,
+      "question": "¿En qué año llegaron los españoles a América?",
+      "answers": ["1492", "1500", "1510", "1498"],
+      "correctAnswer": "1492",
+      "funFact": "Cristóbal Colón llegó a América el 12 de octubre de 1492."
+    },
+    {
+      "id": 4,
+      "question": "¿En qué año se firmó la Declaración de Independencia de los Estados Unidos?",
+      "answers": ["1776", "1789", "1800", "1750"],
+      "correctAnswer": "1776",
+      "funFact": "La Declaración de Independencia fue adoptada el 4 de julio de 1776."
+    },
+    {
+      "id": 5,
+      "question": "¿Quién fue el primer presidente de México?",
+      "answers": [
+        "Guadalupe Victoria",
+        "Miguel Hidalgo",
+        "Benito Juárez",
+        "Agustín de Iturbide"
+      ],
+      "correctAnswer": "Guadalupe Victoria",
+      "funFact": "Guadalupe Victoria fue el primer presidente de México, sirviendo de 1824 a 1829."
+    },
+    {
+      "id": 6,
+      "question": "¿Cuál fue la primera capital de los Estados Unidos?",
+      "answers": ["Nueva York", "Filadelfia", "Washington D.C.", "Boston"],
+      "correctAnswer": "Nueva York",
+      "funFact": "Nueva York fue la primera capital de los Estados Unidos bajo la Constitución de 1789."
+    },
+    {
+      "id": 7,
+      "question": "¿Cuál fue la duración aproximada del Imperio Romano?",
+      "answers": ["700 años", "1000 años", "500 años", "1200 años"],
+      "correctAnswer": "500 años",
+      "funFact": "El Imperio Romano existió aproximadamente por 500 años, desde el 27 a.C. hasta el 476 d.C."
+    },
+    {
+      "id": 8,
+      "question": "¿En qué año fue la Revolución Francesa?",
+      "answers": ["1789", "1800", "1750", "1820"],
+      "correctAnswer": "1789",
+      "funFact": "La Revolución Francesa comenzó en 1789 con la Toma de la Bastilla el 14 de julio."
+    },
+    {
+      "id": 9,
+      "question": "¿Qué evento marcó el final de la Edad Media en Europa?",
+      "answers": [
+        "Descubrimiento de América",
+        "Revolución Industrial",
+        "Guerra de los Cien Años",
+        "Peste Negra"
+      ],
+      "correctAnswer": "Descubrimiento de América",
+      "funFact": "El descubrimiento de América por Cristóbal Colón en 1492 marcó el inicio de la Edad Moderna."
+    },
+    {
+      "id": 10,
+      "question": "¿En qué año se firmó la Magna Carta?",
+      "answers": ["1215", "1300", "1150", "1250"],
+      "correctAnswer": "1215",
+      "funFact": "La Magna Carta, un documento que limitaba el poder del rey de Inglaterra, fue firmada en 1215."
+    },
+    {
+      "id": 11,
+      "question": "¿Qué evento puso fin a la Guerra Fría?",
+      "answers": [
+        "Caída del Muro de Berlín",
+        "Disolución de la URSS",
+        "Tratado de Versalles",
+        "Ataque a Pearl Harbor"
+      ],
+      "correctAnswer": "Disolución de la URSS",
+      "funFact": "La Unión Soviética se disolvió oficialmente el 26 de diciembre de 1991, marcando el fin de la Guerra Fría."
+    },
+    {
+      "id": 12,
+      "question": "¿Cuál fue el primer país en otorgar el derecho al voto a las mujeres?",
+      "answers": ["Nueva Zelanda", "Estados Unidos", "Reino Unido", "Canadá"],
+      "correctAnswer": "Nueva Zelanda",
+      "funFact": "Nueva Zelanda fue el primer país en otorgar el derecho al voto a las mujeres en 1893."
+    },
+    {
+      "id": 13,
+      "question": "¿Quién fue el primer emperador de China?",
+      "answers": ["Qin Shi Huang", "Han Wudi", "Kublai Khan", "Mao Zedong"],
+      "correctAnswer": "Qin Shi Huang",
+      "funFact": "Qin Shi Huang fue el primer emperador de China, unificando el país bajo la dinastía Qin en 221 a.C."
+    },
+    {
+      "id": 14,
+      "question": "¿En qué año se celebró la primera Copa del Mundo de fútbol?",
+      "answers": ["1930", "1920", "1940", "1950"],
+      "correctAnswer": "1930",
+      "funFact": "La primera Copa del Mundo de la FIFA se celebró en Uruguay en 1930, ganada por el país anfitrión."
+    },
+    {
+      "id": 15,
+      "question": "¿Qué evento comenzó la Revolución Rusa en 1917?",
+      "answers": [
+        "Revolución de Febrero",
+        "Revolución de Octubre",
+        "Guerra Civil Rusa",
+        "Invasión alemana"
+      ],
+      "correctAnswer": "Revolución de Febrero",
+      "funFact": "La Revolución Rusa comenzó con la Revolución de Febrero de 1917, derrocando al zar Nicolás II."
+    },
+    {
+      "id": 16,
+      "question": "¿Cuál fue la primera guerra documentada en la historia?",
+      "answers": [
+        "Guerra de Troya",
+        "Guerra de los Cien Años",
+        "Guerra de los Treinta Años",
+        "Guerra de Secesión"
+      ],
+      "correctAnswer": "Guerra de Troya",
+      "funFact": "La Guerra de Troya, mencionada en la Ilíada de Homero, es una de las primeras guerras documentadas en la historia."
+    },
+    {
+      "id": 17,
+      "question": "¿Cuál fue la última dinastía de China?",
+      "answers": ["Qing", "Ming", "Han", "Tang"],
+      "correctAnswer": "Qing",
+      "funFact": "La dinastía Qing gobernó China desde 1644 hasta 1912, marcando el final del gobierno imperial en China."
+    },
+    {
+      "id": 18,
+      "question": "¿En qué año se firmó el Tratado de Versalles?",
+      "answers": ["1919", "1920", "1918", "1921"],
+      "correctAnswer": "1919",
+      "funFact": "El Tratado de Versalles, que puso fin a la Primera Guerra Mundial, fue firmado el 28 de junio de 1919."
+    },
+    {
+      "id": 19,
+      "question": "¿Cuál fue el primer país en abolir la esclavitud?",
+      "answers": ["Haití", "Estados Unidos", "Reino Unido", "Brasil"],
+      "correctAnswer": "Haití",
+      "funFact": "Haití se convirtió en el primer país en abolir la esclavitud en 1804, tras una exitosa revolución de esclavos."
+    },
+    {
+      "id": 20,
+      "question": "¿Quién fue el primer astronauta en caminar sobre la Luna?",
+      "answers": [
+        "Neil Armstrong",
+        "Buzz Aldrin",
+        "Yuri Gagarin",
+        "Alan Shepard"
+      ],
+      "correctAnswer": "Neil Armstrong",
+      "funFact": "Neil Armstrong se convirtió en el primer ser humano en caminar sobre la Luna el 20 de julio de 1969."
+    }
+  ],
+  "ciencia": [
+    {
+      "id": 1,
+      "question": "¿Cuál es el elemento más abundante en el universo?",
+      "answers": ["Hidrógeno", "Oxígeno", "Hierro", "Helio"],
+      "correctAnswer": "Hidrógeno",
+      "funFact": "El hidrógeno constituye aproximadamente el 75% de la masa elemental del universo."
+    },
+    {
+      "id": 2,
+      "question": "¿Qué animal tiene el cerebro más grande en relación con su tamaño corporal?",
+      "answers": ["Ballena", "Elefante", "Hipopótamo", "Delfín"],
+      "correctAnswer": "Ballena",
+      "funFact": "La ballena tiene un cerebro que puede pesar hasta 9 kilogramos."
+    },
+    {
+      "id": 3,
+      "question": "¿Cuál es la velocidad de la luz en el vacío?",
+      "answers": [
+        "299,792,458 metros por segundo",
+        "100,000,000 metros por segundo",
+        "500,000,000 metros por segundo",
+        "1,000,000,000 metros por segundo"
+      ],
+      "correctAnswer": "299,792,458 metros por segundo",
+      "funFact": "La velocidad de la luz en el vacío es una constante fundamental de la física."
+    },
+    {
+      "id": 4,
+      "question": "¿Cuál es el órgano más grande del cuerpo humano?",
+      "answers": ["Piel", "Hígado", "Pulmones", "Cerebro"],
+      "correctAnswer": "Piel",
+      "funFact": "La piel es el órgano más grande del cuerpo humano, con un área de aproximadamente 1.5-2 metros cuadrados."
+    },
+    {
+      "id": 5,
+      "question": "¿Cuál es el planeta más grande del sistema solar?",
+      "answers": ["Júpiter", "Saturno", "Urano", "Neptuno"],
+      "correctAnswer": "Júpiter",
+      "funFact": "Júpiter tiene una masa más de dos veces y media mayor que la de todos los otros planetas del sistema solar juntos."
+    },
+    {
+      "id": 6,
+      "question": "¿Cuál es el metal más abundante en la corteza terrestre?",
+      "answers": ["Aluminio", "Hierro", "Cobre", "Plomo"],
+      "correctAnswer": "Aluminio",
+      "funFact": "El aluminio es el metal más abundante en la corteza terrestre, pero raramente se encuentra en forma pura."
+    },
+    {
+      "id": 7,
+      "question": "¿Cuál es la molécula que proporciona energía a las células vivas?",
+      "answers": ["ATP", "ADN", "ARN", "Glucosa"],
+      "correctAnswer": "ATP",
+      "funFact": "El ATP (adenosín trifosfato) es la molécula utilizada por las células para almacenar y transferir energía."
+    },
+    {
+      "id": 8,
+      "question": "¿Cuál es el metal más ligero?",
+      "answers": ["Litio", "Aluminio", "Titanio", "Magnesio"],
+      "correctAnswer": "Litio",
+      "funFact": "El litio es el metal más ligero y el más liviano de todos los sólidos, y se utiliza en baterías recargables."
+    },
+    {
+      "id": 9,
+      "question": "¿Cuál es el hueso más largo del cuerpo humano?",
+      "answers": ["Fémur", "Húmero", "Tibia", "Radio"],
+      "correctAnswer": "Fémur",
+      "funFact": "El fémur es el hueso más largo y fuerte del cuerpo humano, soportando el peso del cuerpo durante el movimiento."
+    },
+    {
+      "id": 10,
+      "question": "¿Cuál es el mamífero más rápido en tierra?",
+      "answers": ["Guepardo", "Leopardo", "León", "Jaguar"],
+      "correctAnswer": "Guepardo",
+      "funFact": "El guepardo es el mamífero terrestre más rápido, alcanzando velocidades de hasta 112 km/h en carreras cortas."
+    },
+    {
+      "id": 11,
+      "question": "¿Cuál es el gas más común en la atmósfera de la Tierra?",
+      "answers": ["Nitrógeno", "Oxígeno", "Dióxido de carbono", "Hidrógeno"],
+      "correctAnswer": "Nitrógeno",
+      "funFact": "El nitrógeno constituye aproximadamente el 78% de la atmósfera de la Tierra."
+    },
+    {
+      "id": 12,
+      "question": "¿Cuál es la distancia promedio entre la Tierra y el Sol?",
+      "answers": [
+        "150 millones de kilómetros",
+        "100 millones de kilómetros",
+        "200 millones de kilómetros",
+        "300 millones de kilómetros"
+      ],
+      "correctAnswer": "150 millones de kilómetros",
+      "funFact": "La distancia promedio entre la Tierra y el Sol es de aproximadamente 150 millones de kilómetros, conocida como una unidad astronómica (UA)."
+    },
+    {
+      "id": 13,
+      "question": "¿Qué animal puede regenerar partes perdidas de su cuerpo?",
+      "answers": ["Estrella de mar", "Pulpo", "Caracol", "Cangrejo"],
+      "correctAnswer": "Estrella de mar",
+      "funFact": "Las estrellas de mar tienen la capacidad de regenerar partes perdidas de su cuerpo, incluyendo brazos y discos centrales."
+    },
+    {
+      "id": 14,
+      "question": "¿Cuál es el metal más resistente conocido?",
+      "answers": ["Tungsteno", "Titanio", "Platino", "Carbono"],
+      "correctAnswer": "Tungsteno",
+      "funFact": "El tungsteno es el metal más resistente conocido, con el punto de fusión más alto de todos los metales."
+    },
+    {
+      "id": 15,
+      "question": "¿Cuál es la montaña más alta del mundo?",
+      "answers": [
+        "Monte Everest",
+        "Monte Kilimanjaro",
+        "Monte McKinley",
+        "Monte Fuji"
+      ],
+      "correctAnswer": "Monte Everest",
+      "funFact": "El Monte Everest, en la cordillera del Himalaya, es la montaña más alta del mundo, con una altura de 8,848 metros sobre el nivel del mar."
+    },
+    {
+      "id": 16,
+      "question": "¿Cuál es el planeta más cercano al Sol?",
+      "answers": ["Mercurio", "Venus", "Marte", "Júpiter"],
+      "correctAnswer": "Mercurio",
+      "funFact": "Mercurio es el planeta más cercano al Sol y el más pequeño del sistema solar."
+    },
+    {
+      "id": 17,
+      "question": "¿Qué tipo de animal es un delfín?",
+      "answers": ["Mamífero marino", "Pez", "Reptil", "Anfibio"],
+      "correctAnswer": "Mamífero marino",
+      "funFact": "Los delfines son mamíferos marinos inteligentes y sociales que se encuentran en océanos de todo el mundo."
+    },
+    {
+      "id": 18,
+      "question": "¿Cuál es el metal más abundante en el cuerpo humano?",
+      "answers": ["Calcio", "Hierro", "Magnesio", "Plomo"],
+      "correctAnswer": "Calcio",
+      "funFact": "El calcio es el metal más abundante en el cuerpo humano y es esencial para la salud de los huesos y los dientes."
+    },
+    {
+      "id": 19,
+      "question": "¿Cuál es el líquido más consumido del mundo después del agua?",
+      "answers": ["Leche", "Jugo de naranja", "Café", "Cerveza"],
+      "correctAnswer": "Café",
+      "funFact": "El café es el líquido más consumido del mundo después del agua, popular por su sabor y efectos estimulantes."
+    },
+    {
+      "id": 20,
+      "question": "¿Cuál es el elemento esencial encontrado en todos los aminoácidos proteínicos?",
+      "answers": ["Nitrógeno", "Carbono", "Oxígeno", "Hidrógeno"],
+      "correctAnswer": "Nitrógeno",
+      "funFact": "El nitrógeno es un elemento esencial en la estructura de todos los aminoácidos proteínicos, los bloques de construcción de las proteínas."
+    }
+  ],
+  "musica": [
+    {
+      "id": 1,
+      "question": "¿Quién es conocido como el Rey del Pop?",
+      "answers": ["Michael Jackson", "Elvis Presley", "Madonna", "Prince"],
+      "correctAnswer": "Michael Jackson",
+      "funFact": "Michael Jackson es ampliamente reconocido como uno de los artistas más exitosos y influyentes en la historia de la música pop."
+    },
+    {
+      "id": 2,
+      "question": "¿Cuál es el álbum más vendido de todos los tiempos?",
+      "answers": [
+        "Thriller - Michael Jackson",
+        "The Dark Side of the Moon - Pink Floyd",
+        "Back in Black - AC/DC",
+        "Bat Out of Hell - Meat Loaf"
+      ],
+      "correctAnswer": "Thriller - Michael Jackson",
+      "funFact": "El álbum Thriller de Michael Jackson es el álbum más vendido de todos los tiempos, con ventas estimadas de más de 66 millones de copias a nivel mundial."
+    },
+    {
+      "id": 3,
+      "question": "¿Quién fue el primer ganador de American Idol?",
+      "answers": [
+        "Kelly Clarkson",
+        "Carrie Underwood",
+        "Adam Lambert",
+        "Ruben Studdard"
+      ],
+      "correctAnswer": "Kelly Clarkson",
+      "funFact": "Kelly Clarkson ganó la primera temporada de American Idol en 2002, lanzando una exitosa carrera como cantante."
+    },
+    {
+      "id": 4,
+      "question": "¿Cuál es la banda de rock más vendida de todos los tiempos?",
+      "answers": ["The Beatles", "Led Zeppelin", "Queen", "The Rolling Stones"],
+      "correctAnswer": "The Beatles",
+      "funFact": "The Beatles son ampliamente considerados como la banda de rock más vendida de todos los tiempos, con ventas estimadas de más de 600 millones de discos en todo el mundo."
+    },
+    {
+      "id": 5,
+      "question": "¿Cuál es el instrumento principal de John Coltrane?",
+      "answers": ["Saxofón", "Trompeta", "Piano", "Guitarra"],
+      "correctAnswer": "Saxofón",
+      "funFact": "John Coltrane fue un saxofonista de jazz influyente y reconocido por su técnica y estilo innovador."
+    },
+    {
+      "id": 6,
+      "question": "¿Qué álbum de los Beatles fue lanzado en 1967 y es considerado un hito en la historia del rock?",
+      "answers": [
+        "Sgt. Pepper's Lonely Hearts Club Band",
+        "Revolver",
+        "Abbey Road",
+        "Rubber Soul"
+      ],
+      "correctAnswer": "Sgt. Pepper's Lonely Hearts Club Band",
+      "funFact": "Sgt. Pepper's Lonely Hearts Club Band de The Beatles es aclamado por su innovación musical y conceptual, siendo uno de los álbumes más influyentes de todos los tiempos."
+    },
+    {
+      "id": 7,
+      "question": "¿Cuál es la canción más reproducida en Spotify hasta la fecha?",
+      "answers": [
+        "Shape of You - Ed Sheeran",
+        "Blinding Lights - The Weeknd",
+        "Dance Monkey - Tones and I",
+        "Despacito - Luis Fonsi, Daddy Yankee"
+      ],
+      "correctAnswer": "Shape of You - Ed Sheeran",
+      "funFact": "Shape of You de Ed Sheeran es la canción más reproducida en la historia de Spotify, con más de 3 mil millones de reproducciones."
+    },
+    {
+      "id": 8,
+      "question": "¿Quién es conocido como el Rey del Rock 'n' Roll?",
+      "answers": [
+        "Elvis Presley",
+        "Chuck Berry",
+        "Little Richard",
+        "Buddy Holly"
+      ],
+      "correctAnswer": "Elvis Presley",
+      "funFact": "Elvis Presley es conocido como el Rey del Rock 'n' Roll y fue una figura clave en la popularización del género."
+    },
+    {
+      "id": 9,
+      "question": "¿Quién fue el líder de la banda británica Queen?",
+      "answers": [
+        "Freddie Mercury",
+        "Roger Taylor",
+        "Brian May",
+        "John Deacon"
+      ],
+      "correctAnswer": "Freddie Mercury",
+      "funFact": "Freddie Mercury fue el carismático vocalista y líder de la banda Queen, conocido por su poderosa voz y actuaciones en vivo."
+    },
+    {
+      "id": 10,
+      "question": "¿Cuál es el género musical que se originó en Jamaica a finales de los años 1960?",
+      "answers": ["Reggae", "Salsa", "Ska", "Calypso"],
+      "correctAnswer": "Reggae",
+      "funFact": "El reggae se originó en Jamaica a finales de los años 1960 y es conocido por su ritmo distintivo y letras que a menudo abordan cuestiones sociales y políticas."
+    },
+    {
+      "id": 11,
+      "question": "¿Quién es conocido como el Rey del Blues?",
+      "answers": [
+        "B.B. King",
+        "Muddy Waters",
+        "John Lee Hooker",
+        "Robert Johnson"
+      ],
+      "correctAnswer": "B.B. King",
+      "funFact": "B.B. King es una leyenda del blues conocido por su habilidad con la guitarra y su distintiva voz."
+    },
+    {
+      "id": 12,
+      "question": "¿Quién es el rapero con más álbumes número uno en los Estados Unidos?",
+      "answers": ["Jay-Z", "Eminem", "Kanye West", "Drake"],
+      "correctAnswer": "Jay-Z",
+      "funFact": "Jay-Z tiene la mayor cantidad de álbumes número uno en los Estados Unidos entre los raperos, con un total de 14 álbumes."
+    },
+    {
+      "id": 13,
+      "question": "¿Qué banda lanzó el álbum 'The Joshua Tree' en 1987?",
+      "answers": ["U2", "The Police", "Coldplay", "Depeche Mode"],
+      "correctAnswer": "U2",
+      "funFact": "'The Joshua Tree' de U2 es uno de los álbumes más icónicos de la banda, incluyendo éxitos como 'With or Without You' y 'Where the Streets Have No Name'."
+    },
+    {
+      "id": 14,
+      "question": "¿Qué cantante femenina es conocida como la 'Reina del Soul'?",
+      "answers": [
+        "Aretha Franklin",
+        "Whitney Houston",
+        "Tina Turner",
+        "Diana Ross"
+      ],
+      "correctAnswer": "Aretha Franklin",
+      "funFact": "Aretha Franklin es conocida como la 'Reina del Soul' y fue una de las artistas más influyentes en la historia de la música."
+    },
+    {
+      "id": 15,
+      "question": "¿Cuál es la banda de rock más antigua en actividad?",
+      "answers": ["The Rolling Stones", "The Who", "AC/DC", "Pink Floyd"],
+      "correctAnswer": "The Rolling Stones",
+      "funFact": "The Rolling Stones se formó en 1962 y continúa siendo una de las bandas de rock más populares y duraderas del mundo."
+    },
+    {
+      "id": 16,
+      "question": "¿Qué banda británica popularizó el 'britpop' en los años 1990?",
+      "answers": ["Oasis", "Blur", "Radiohead", "Pulp"],
+      "correctAnswer": "Oasis",
+      "funFact": "Oasis fue una de las bandas más importantes del movimiento britpop en los años 1990, conocida por éxitos como 'Wonderwall' y 'Don't Look Back in Anger'."
+    },
+    {
+      "id": 17,
+      "question": "¿Qué artista lanzó el álbum 'Back to Black' en 2006?",
+      "answers": ["Amy Winehouse", "Adele", "Lady Gaga", "Beyoncé"],
+      "correctAnswer": "Amy Winehouse",
+      "funFact": "'Back to Black' de Amy Winehouse es un álbum aclamado por la crítica, ganando varios premios Grammy."
+    },
+    {
+      "id": 18,
+      "question": "¿Cuál es la banda de heavy metal conocida por su mascota 'Eddie'?",
+      "answers": ["Iron Maiden", "Metallica", "Black Sabbath", "Megadeth"],
+      "correctAnswer": "Iron Maiden",
+      "funFact": "Iron Maiden es conocida por su mascota 'Eddie', quien aparece en las portadas de muchos de sus álbumes."
+    },
+    {
+      "id": 19,
+      "question": "¿Quién es el líder de la banda de rock británica Queen?",
+      "answers": [
+        "Freddie Mercury",
+        "Brian May",
+        "Roger Taylor",
+        "John Deacon"
+      ],
+      "correctAnswer": "Freddie Mercury",
+      "funFact": "Freddie Mercury fue el carismático vocalista y líder de Queen, conocido por su impresionante rango vocal y presencia en el escenario."
+    },
+    {
+      "id": 20,
+      "question": "¿Cuál es la banda de rock alternativo liderada por Kurt Cobain?",
+      "answers": ["Nirvana", "Pearl Jam", "Soundgarden", "Alice in Chains"],
+      "correctAnswer": "Nirvana",
+      "funFact": "Nirvana fue una banda icónica del movimiento grunge de los años 1990, conocida por su álbum 'Nevermind' y el éxito 'Smells Like Teen Spirit'."
+    }
+  ],
+  "entretenimiento": [
+    {
+      "id": 1,
+      "question": "¿Quién interpretó a James Bond en la película 'Casino Royale' de 2006?",
+      "answers": [
+        "Daniel Craig",
+        "Pierce Brosnan",
+        "Sean Connery",
+        "Roger Moore"
+      ],
+      "correctAnswer": "Daniel Craig",
+      "funFact": "Daniel Craig hizo su debut como James Bond en 'Casino Royale', reiniciando la franquicia con un enfoque más realista."
+    },
+    {
+      "id": 2,
+      "question": "¿Qué actor interpretó a Jack en la película 'Titanic'?",
+      "answers": [
+        "Leonardo DiCaprio",
+        "Brad Pitt",
+        "Tom Cruise",
+        "Johnny Depp"
+      ],
+      "correctAnswer": "Leonardo DiCaprio",
+      "funFact": "'Titanic', protagonizada por Leonardo DiCaprio y Kate Winslet, fue un éxito masivo y ganó múltiples premios de la Academia."
+    },
+    {
+      "id": 3,
+      "question": "¿Quién es el director de la trilogía 'El Señor de los Anillos'?",
+      "answers": [
+        "Peter Jackson",
+        "Christopher Nolan",
+        "Steven Spielberg",
+        "George Lucas"
+      ],
+      "correctAnswer": "Peter Jackson",
+      "funFact": "Peter Jackson dirigió la trilogía cinematográfica basada en las novelas de J.R.R. Tolkien, ganando reconocimiento mundial."
+    },
+    {
+      "id": 4,
+      "question": "¿Qué película de Pixar presenta a un pez payaso llamado Nemo?",
+      "answers": ["Finding Nemo", "Toy Story", "Up", "Wall-E"],
+      "correctAnswer": "Finding Nemo",
+      "funFact": "'Finding Nemo', dirigida por Andrew Stanton, es una de las películas más exitosas y aclamadas de Pixar."
+    },
+    {
+      "id": 5,
+      "question": "¿Cuál es la serie de televisión épica basada en novelas de George R.R. Martin?",
+      "answers": [
+        "Game of Thrones",
+        "Breaking Bad",
+        "Stranger Things",
+        "The Walking Dead"
+      ],
+      "correctAnswer": "Game of Thrones",
+      "funFact": "'Game of Thrones', producida por HBO, se convirtió en un fenómeno cultural mundial, adaptando 'Canción de hielo y fuego' de George R.R. Martin."
+    },
+    {
+      "id": 6,
+      "question": "¿Qué director es conocido por películas como 'Pulp Fiction' y 'Kill Bill'?",
+      "answers": [
+        "Quentin Tarantino",
+        "Martin Scorsese",
+        "David Fincher",
+        "Stanley Kubrick"
+      ],
+      "correctAnswer": "Quentin Tarantino",
+      "funFact": "Quentin Tarantino es conocido por su estilo distintivo y su enfoque en diálogos y violencia estilizada en el cine."
+    },
+    {
+      "id": 7,
+      "question": "¿Cuál es el nombre del robot que se convierte en un amigo del protagonista en la película 'Wall-E'?",
+      "answers": ["EVE", "BMO", "R2-D2", "C-3PO"],
+      "correctAnswer": "EVE",
+      "funFact": "'Wall-E', dirigida por Andrew Stanton, es una película de Pixar que aborda temas ambientales y de consumo."
+    },
+    {
+      "id": 8,
+      "question": "¿Quién interpretó a Neo en la trilogía 'The Matrix'?",
+      "answers": ["Keanu Reeves", "Tom Cruise", "Will Smith", "Christian Bale"],
+      "correctAnswer": "Keanu Reeves",
+      "funFact": "Keanu Reeves interpretó a Neo en la trilogía 'The Matrix', dirigida por los hermanos Wachowski, redefiniendo el género de la ciencia ficción."
+    },
+    {
+      "id": 9,
+      "question": "¿Qué actor interpretó a Batman en la trilogía de 'The Dark Knight'?",
+      "answers": [
+        "Christian Bale",
+        "Michael Keaton",
+        "Ben Affleck",
+        "Val Kilmer"
+      ],
+      "correctAnswer": "Christian Bale",
+      "funFact": "Christian Bale interpretó a Batman en la trilogía dirigida por Christopher Nolan, conocida por su tono oscuro y realista."
+    },
+    {
+      "id": 10,
+      "question": "¿Cuál es la primera película de la saga 'Star Wars'?",
+      "answers": [
+        "Star Wars: Episode IV - A New Hope",
+        "Star Wars: Episode I - The Phantom Menace",
+        "Star Wars: Episode VI - Return of the Jedi",
+        "Star Wars: Episode V - The Empire Strikes Back"
+      ],
+      "correctAnswer": "Star Wars: Episode IV - A New Hope",
+      "funFact": "'Star Wars: Episode IV - A New Hope' fue lanzada originalmente como 'Star Wars' en 1977, dirigida por George Lucas."
+    },
+    {
+      "id": 11,
+      "question": "¿Qué actor interpretó a Jack Sparrow en la serie de películas 'Pirates of the Caribbean'?",
+      "answers": [
+        "Johnny Depp",
+        "Orlando Bloom",
+        "Keira Knightley",
+        "Geoffrey Rush"
+      ],
+      "correctAnswer": "Johnny Depp",
+      "funFact": "Johnny Depp interpretó a Jack Sparrow en la serie de películas 'Pirates of the Caribbean', ganando reconocimiento por su interpretación única."
+    },
+    {
+      "id": 12,
+      "question": "¿Qué director es conocido por películas como 'The Shawshank Redemption' y 'The Green Mile'?",
+      "answers": [
+        "Frank Darabont",
+        "Steven Spielberg",
+        "Martin Scorsese",
+        "David Fincher"
+      ],
+      "correctAnswer": "Frank Darabont",
+      "funFact": "Frank Darabont es conocido por adaptar las obras de Stephen King en el cine, incluyendo 'The Shawshank Redemption' y 'The Green Mile'."
+    },
+    {
+      "id": 13,
+      "question": "¿Qué película de ciencia ficción dirigida por Ridley Scott presenta al androide llamado David?",
+      "answers": ["Prometheus", "Blade Runner", "Alien", "The Martian"],
+      "correctAnswer": "Prometheus",
+      "funFact": "'Prometheus', dirigida por Ridley Scott, es una precuela de 'Alien' y explora temas filosóficos sobre el origen de la humanidad."
+    },
+    {
+      "id": 14,
+      "question": "¿Cuál es el nombre del actor que interpretó a Spider-Man en la trilogía dirigida por Sam Raimi?",
+      "answers": [
+        "Tobey Maguire",
+        "Andrew Garfield",
+        "Tom Holland",
+        "Jake Gyllenhaal"
+      ],
+      "correctAnswer": "Tobey Maguire",
+      "funFact": "Tobey Maguire interpretó a Spider-Man en la trilogía dirigida por Sam Raimi, estableciendo al personaje como un ícono del cine de superhéroes."
+    },
+    {
+      "id": 15,
+      "question": "¿Cuál es la serie de televisión basada en las novelas de George R.R. Martin?",
+      "answers": [
+        "Game of Thrones",
+        "The Walking Dead",
+        "Breaking Bad",
+        "Stranger Things"
+      ],
+      "correctAnswer": "Game of Thrones",
+      "funFact": "'Game of Thrones', producida por HBO, se convirtió en un fenómeno cultural y televisivo mundial, adaptando las novelas de George R.R. Martin."
+    },
+    {
+      "id": 16,
+      "question": "¿Qué director es conocido por películas como 'Inception' y 'The Dark Knight'?",
+      "answers": [
+        "Christopher Nolan",
+        "Quentin Tarantino",
+        "Martin Scorsese",
+        "David Fincher"
+      ],
+      "correctAnswer": "Christopher Nolan",
+      "funFact": "Christopher Nolan es conocido por su habilidad para crear películas complejas y visualmente impresionantes, explorando temas de realidad y percepción."
+    },
+    {
+      "id": 17,
+      "question": "¿Qué actor interpretó a Iron Man en el Universo Cinematográfico de Marvel?",
+      "answers": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Mark Ruffalo",
+        "Chris Hemsworth"
+      ],
+      "correctAnswer": "Robert Downey Jr.",
+      "funFact": "Robert Downey Jr. interpretó a Tony Stark / Iron Man en el MCU, estableciendo el personaje como uno de los más populares en el cine de superhéroes."
+    },
+    {
+      "id": 18,
+      "question": "¿Cuál es la primera película de la saga 'The Hunger Games'?",
+      "answers": [
+        "The Hunger Games",
+        "Catching Fire",
+        "Mockingjay - Part 1",
+        "Mockingjay - Part 2"
+      ],
+      "correctAnswer": "The Hunger Games",
+      "funFact": "'The Hunger Games', protagonizada por Jennifer Lawrence, se basa en la novela de Suzanne Collins y fue un éxito tanto en taquilla como crítica."
+    },
+    {
+      "id": 19,
+      "question": "¿Qué actor interpretó a Batman en la trilogía dirigida por Christopher Nolan?",
+      "answers": [
+        "Christian Bale",
+        "Ben Affleck",
+        "Michael Keaton",
+        "Val Kilmer"
+      ],
+      "correctAnswer": "Christian Bale",
+      "funFact": "Christian Bale interpretó a Batman en la trilogía dirigida por Christopher Nolan, conocida por su enfoque realista y oscuro del personaje."
+    },
+    {
+      "id": 20,
+      "question": "¿Cuál es la película animada dirigida por Hayao Miyazaki y considerada un clásico del cine?",
+      "answers": [
+        "Spirited Away",
+        "My Neighbor Totoro",
+        "Princess Mononoke",
+        "Howl's Moving Castle"
+      ],
+      "correctAnswer": "Spirited Away",
+      "funFact": "'Spirited Away', dirigida por Hayao Miyazaki, ganó el Premio de la Academia a la Mejor Película de Animación y es una de las películas más aclamadas del cine japonés."
+    }
+  ],
+  "deportes": [
+    {
+      "id": 1,
+      "question": "¿Qué jugador de baloncesto es conocido como 'The King'?",
+      "answers": [
+        "LeBron James",
+        "Michael Jordan",
+        "Kobe Bryant",
+        "Magic Johnson"
+      ],
+      "correctAnswer": "LeBron James",
+      "funFact": "LeBron James es uno de los mejores jugadores de baloncesto de todos los tiempos, conocido por su versatilidad y habilidades atléticas."
+    },
+    {
+      "id": 2,
+      "question": "¿Qué equipo de fútbol ganó la Copa del Mundo de la FIFA 2018?",
+      "answers": ["Francia", "Croacia", "Brasil", "Alemania"],
+      "correctAnswer": "Francia",
+      "funFact": "Francia ganó la Copa del Mundo de la FIFA 2018 en Rusia, su segundo título mundial después de ganar en casa en 1998."
+    },
+    {
+      "id": 3,
+      "question": "¿Qué golfista es conocido como 'Lefty'?",
+      "answers": [
+        "Phil Mickelson",
+        "Tiger Woods",
+        "Rory McIlroy",
+        "Jordan Spieth"
+      ],
+      "correctAnswer": "Phil Mickelson",
+      "funFact": "Phil Mickelson es un golfista estadounidense conocido por su habilidad en el campo y su personalidad carismática."
+    },
+    {
+      "id": 4,
+      "question": "¿Qué tenista ha ganado más títulos de Grand Slam en la historia del tenis masculino?",
+      "answers": [
+        "Roger Federer",
+        "Rafael Nadal",
+        "Novak Djokovic",
+        "Pete Sampras"
+      ],
+      "correctAnswer": "Roger Federer",
+      "funFact": "Roger Federer ha ganado un récord de 20 títulos de Grand Slam en individuales masculinos, destacándose por su técnica y longevidad en el deporte."
+    },
+    {
+      "id": 5,
+      "question": "¿Qué equipo de fútbol español ha ganado más títulos de la UEFA Champions League?",
+      "answers": ["Real Madrid", "FC Barcelona", "Bayern Munich", "Liverpool"],
+      "correctAnswer": "Real Madrid",
+      "funFact": "Real Madrid es el equipo con más títulos de la UEFA Champions League, con un total de 13 victorias hasta la temporada 2023-2024."
+    },
+    {
+      "id": 6,
+      "question": "¿Qué corredor jamaicano es conocido como el 'Relámpago'?",
+      "answers": [
+        "Usain Bolt",
+        "Carl Lewis",
+        "Jesse Owens",
+        "Florence Griffith-Joyner"
+      ],
+      "correctAnswer": "Usain Bolt",
+      "funFact": "Usain Bolt es ampliamente considerado como el corredor más rápido de todos los tiempos, estableciendo múltiples récords mundiales en sprints."
+    },
+    {
+      "id": 7,
+      "question": "¿Qué jugador de fútbol americano es conocido por ser el mariscal de campo de los New England Patriots?",
+      "answers": ["Tom Brady", "Peyton Manning", "Aaron Rodgers", "Drew Brees"],
+      "correctAnswer": "Tom Brady",
+      "funFact": "Tom Brady es considerado uno de los mejores mariscales de campo en la historia de la NFL, ganando múltiples Super Bowls con los New England Patriots y luego con los Tampa Bay Buccaneers."
+    },
+    {
+      "id": 8,
+      "question": "¿Qué piloto de Fórmula 1 es conocido como 'Schumi'?",
+      "answers": [
+        "Michael Schumacher",
+        "Lewis Hamilton",
+        "Ayrton Senna",
+        "Sebastian Vettel"
+      ],
+      "correctAnswer": "Michael Schumacher",
+      "funFact": "Michael Schumacher es uno de los pilotos más exitosos en la historia de la Fórmula 1, ganando siete campeonatos mundiales y estableciendo numerosos récords."
+    },
+    {
+      "id": 9,
+      "question": "¿Qué equipo de béisbol ha ganado más Series Mundiales en la historia de las Grandes Ligas?",
+      "answers": [
+        "New York Yankees",
+        "Los Angeles Dodgers",
+        "Boston Red Sox",
+        "San Francisco Giants"
+      ],
+      "correctAnswer": "New York Yankees",
+      "funFact": "Los New York Yankees son el equipo con más títulos de la Serie Mundial en la historia de las Grandes Ligas, con un total de 27 campeonatos."
+    },
+    {
+      "id": 10,
+      "question": "¿Qué nadador estadounidense ganó siete medallas de oro en los Juegos Olímpicos de 1972?",
+      "answers": ["Mark Spitz", "Michael Phelps", "Ryan Lochte", "Matt Biondi"],
+      "correctAnswer": "Mark Spitz",
+      "funFact": "Mark Spitz ganó siete medallas de oro en natación en los Juegos Olímpicos de Múnich 1972, estableciendo un récord que se mantuvo durante décadas."
+    },
+    {
+      "id": 11,
+      "question": "¿Qué jugador de fútbol argentino es conocido como 'La Pulga'?",
+      "answers": [
+        "Lionel Messi",
+        "Diego Maradona",
+        "Gabriel Batistuta",
+        "Sergio Agüero"
+      ],
+      "correctAnswer": "Lionel Messi",
+      "funFact": "Lionel Messi es considerado uno de los mejores futbolistas de todos los tiempos, conocido por su habilidad técnica y capacidad goleadora."
+    },
+    {
+      "id": 12,
+      "question": "¿Qué jugador de baloncesto se retiró después de una legendaria carrera con los Chicago Bulls y los Washington Wizards?",
+      "answers": [
+        "Michael Jordan",
+        "Magic Johnson",
+        "Larry Bird",
+        "Kobe Bryant"
+      ],
+      "correctAnswer": "Michael Jordan",
+      "funFact": "Michael Jordan es ampliamente considerado como el mejor jugador de baloncesto de todos los tiempos, ganando seis campeonatos con los Chicago Bulls."
+    },
+    {
+      "id": 13,
+      "question": "¿Qué corredor keniano es conocido como el 'Kipchoge'?",
+      "answers": [
+        "Eliud Kipchoge",
+        "David Rudisha",
+        "Paul Tergat",
+        "Wilson Kipsang"
+      ],
+      "correctAnswer": "Eliud Kipchoge",
+      "funFact": "Eliud Kipchoge es un corredor de larga distancia conocido por ser el primer humano en correr un maratón en menos de dos horas."
+    },
+    {
+      "id": 14,
+      "question": "¿Qué equipo de baloncesto de la NBA ha ganado más campeonatos en la historia de la liga?",
+      "answers": [
+        "Boston Celtics",
+        "Los Angeles Lakers",
+        "Chicago Bulls",
+        "Golden State Warriors"
+      ],
+      "correctAnswer": "Boston Celtics",
+      "funFact": "Los Boston Celtics son el equipo con más títulos de la NBA, con un total de 17 campeonatos hasta la temporada 2023-2024."
+    },
+    {
+      "id": 15,
+      "question": "¿Qué tenista suizo ha ganado 20 títulos de Grand Slam en individuales masculinos?",
+      "answers": [
+        "Roger Federer",
+        "Rafael Nadal",
+        "Novak Djokovic",
+        "Pete Sampras"
+      ],
+      "correctAnswer": "Roger Federer",
+      "funFact": "Roger Federer es uno de los tenistas más exitosos en la historia del tenis masculino, con un récord de 20 títulos de Grand Slam."
+    },
+    {
+      "id": 16,
+      "question": "¿Qué equipo de fútbol italiano ganó la Eurocopa 2020?",
+      "answers": ["Italia", "Francia", "Alemania", "Portugal"],
+      "correctAnswer": "Italia",
+      "funFact": "Italia ganó la Eurocopa 2020, su segundo título europeo después de ganar en casa en 1968."
+    },
+    {
+      "id": 17,
+      "question": "¿Qué atleta jamaiquino es conocido como el 'Relámpago'?",
+      "answers": [
+        "Usain Bolt",
+        "Carl Lewis",
+        "Jesse Owens",
+        "Florence Griffith-Joyner"
+      ],
+      "correctAnswer": "Usain Bolt",
+      "funFact": "Usain Bolt es ampliamente considerado como el corredor más rápido de todos los tiempos, estableciendo múltiples récords mundiales en sprints."
+    },
+    {
+      "id": 18,
+      "question": "¿Qué nadador estadounidense ganó siete medallas de oro en los Juegos Olímpicos de 1972?",
+      "answers": ["Mark Spitz", "Michael Phelps", "Ryan Lochte", "Matt Biondi"],
+      "correctAnswer": "Mark Spitz",
+      "funFact": "Mark Spitz ganó siete medallas de oro en natación en los Juegos Olímpicos de Múnich 1972, estableciendo un récord que se mantuvo durante décadas."
+    },
+    {
+      "id": 19,
+      "question": "¿Qué golfista es conocido como 'Lefty'?",
+      "answers": [
+        "Phil Mickelson",
+        "Tiger Woods",
+        "Rory McIlroy",
+        "Jordan Spieth"
+      ],
+      "correctAnswer": "Phil Mickelson",
+      "funFact": "Phil Mickelson es un golfista estadounidense conocido por su habilidad en el campo y su personalidad carismática."
+    },
+    {
+      "id": 20,
+      "question": "¿Qué equipo de fútbol español ha ganado más títulos de la UEFA Champions League?",
+      "answers": ["Real Madrid", "FC Barcelona", "Bayern Munich", "Liverpool"],
+      "correctAnswer": "Real Madrid",
+      "funFact": "Real Madrid es el equipo con más títulos de la UEFA Champions League, con un total de 13 victorias hasta la temporada 2023-2024."
+    }
+  ],
+  "arte": [
+    {
+      "id": 1,
+      "question": "¿Quién pintó la 'Mona Lisa'?",
+      "answers": [
+        "Leonardo da Vinci",
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Michelangelo"
+      ],
+      "correctAnswer": "Leonardo da Vinci",
+      "funFact": "La 'Mona Lisa' es una de las obras más famosas y reconocibles del arte renacentista, pintada por Leonardo da Vinci."
+    },
+    {
+      "id": 2,
+      "question": "¿Qué artista es conocido por sus obras de 'La Noche Estrellada' y 'Los Girasoles'?",
+      "answers": [
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Claude Monet",
+        "Salvador Dalí"
+      ],
+      "correctAnswer": "Vincent van Gogh",
+      "funFact": "Vincent van Gogh es uno de los artistas más influyentes del postimpresionismo, conocido por su estilo único y su intensa vida personal."
+    },
+    {
+      "id": 3,
+      "question": "¿Qué escultor y pintor italiano es conocido por su obra 'David' y 'La Piedad'?",
+      "answers": ["Michelangelo", "Rafael", "Donatello", "Leonardo da Vinci"],
+      "correctAnswer": "Michelangelo",
+      "funFact": "Michelangelo Buonarroti es uno de los artistas más importantes del Renacimiento, conocido por sus esculturas y frescos extraordinarios."
+    },
+    {
+      "id": 4,
+      "question": "¿Qué artista español es conocido por fundar el cubismo junto con Georges Braque?",
+      "answers": [
+        "Pablo Picasso",
+        "Salvador Dalí",
+        "Joan Miró",
+        "Diego Rivera"
+      ],
+      "correctAnswer": "Pablo Picasso",
+      "funFact": "Pablo Picasso es uno de los artistas más influyentes del siglo XX, conocido por su capacidad de innovación y experimentación artística."
+    },
+    {
+      "id": 5,
+      "question": "¿Qué pintor holandés es conocido por sus obras 'La Ronda de Noche' y 'Lección de Anatomía del Dr. Nicolaes Tulp'?",
+      "answers": ["Rembrandt", "Vermeer", "Van Gogh", "Frans Hals"],
+      "correctAnswer": "Rembrandt",
+      "funFact": "Rembrandt Harmenszoon van Rijn es uno de los pintores más importantes del Siglo de Oro holandés, conocido por su maestría en la representación de la luz y la sombra."
+    },
+    {
+      "id": 6,
+      "question": "¿Qué artista surrealista es conocido por sus obras como 'La Persistencia de la Memoria'?",
+      "answers": ["Salvador Dalí", "René Magritte", "Max Ernst", "Joan Miró"],
+      "correctAnswer": "Salvador Dalí",
+      "funFact": "Salvador Dalí es uno de los principales representantes del surrealismo, conocido por sus obras oníricas y su estilo extravagante."
+    },
+    {
+      "id": 7,
+      "question": "¿Qué escultor italiano es conocido por su obra 'El David'?",
+      "answers": ["Donatello", "Michelangelo", "Bernini", "Cellini"],
+      "correctAnswer": "Michelangelo",
+      "funFact": "'El David' de Michelangelo es una de las esculturas más famosas del Renacimiento italiano, representando la belleza idealizada del cuerpo humano."
+    },
+    {
+      "id": 8,
+      "question": "¿Qué artista francés es conocido por sus pinturas impresionistas de la vida cotidiana?",
+      "answers": [
+        "Claude Monet",
+        "Edgar Degas",
+        "Auguste Renoir",
+        "Édouard Manet"
+      ],
+      "correctAnswer": "Claude Monet",
+      "funFact": "Claude Monet es uno de los fundadores del movimiento impresionista, conocido por capturar la luz y el color en sus obras al aire libre."
+    },
+    {
+      "id": 9,
+      "question": "¿Qué pintor renacentista italiano es conocido por su obra 'La Primavera' y 'El Nacimiento de Venus'?",
+      "answers": [
+        "Sandro Botticelli",
+        "Leonardo da Vinci",
+        "Rafael",
+        "Michelangelo"
+      ],
+      "correctAnswer": "Sandro Botticelli",
+      "funFact": "Sandro Botticelli es uno de los grandes pintores del Renacimiento italiano, conocido por sus obras que combinan belleza estética y simbolismo religioso."
+    },
+    {
+      "id": 10,
+      "question": "¿Qué artista mexicano es conocido por su obra 'Sueño de una Tarde Dominical en la Alameda Central' y 'La Calavera Catrina'?",
+      "answers": [
+        "Diego Rivera",
+        "Frida Kahlo",
+        "David Alfaro Siqueiros",
+        "José Clemente Orozco"
+      ],
+      "correctAnswer": "Diego Rivera",
+      "funFact": "Diego Rivera es uno de los muralistas más importantes de México, conocido por su arte público y su compromiso social y político."
+    },
+    {
+      "id": 11,
+      "question": "¿Qué artista neerlandés es conocido por sus autorretratos y su oreja cortada?",
+      "answers": [
+        "Vincent van Gogh",
+        "Rembrandt",
+        "Johannes Vermeer",
+        "Frans Hals"
+      ],
+      "correctAnswer": "Vincent van Gogh",
+      "funFact": "Vincent van Gogh es conocido por su arte expresivo y su tumultuosa vida personal, marcada por su lucha con la salud mental."
+    },
+    {
+      "id": 12,
+      "question": "¿Qué escultor y pintor italiano es conocido por su obra 'El Moisés' y el techo de la Capilla Sixtina?",
+      "answers": ["Michelangelo", "Rafael", "Leonardo da Vinci", "Donatello"],
+      "correctAnswer": "Michelangelo",
+      "funFact": "Michelangelo Buonarroti es uno de los artistas más influyentes del Renacimiento italiano, conocido por su habilidad en escultura, pintura y arquitectura."
+    },
+    {
+      "id": 13,
+      "question": "¿Qué artista alemán es conocido por su estilo expresionista y sus obras como 'El Grito'?",
+      "answers": [
+        "Edvard Munch",
+        "Gustav Klimt",
+        "Wassily Kandinsky",
+        "Franz Marc"
+      ],
+      "correctAnswer": "Edvard Munch",
+      "funFact": "'El Grito' de Edvard Munch es una de las obras más icónicas del arte moderno, simbolizando la angustia existencial y la desesperación."
+    },
+    {
+      "id": 14,
+      "question": "¿Qué artista italiano es conocido por sus frescos en la Capilla Sixtina y su escultura 'David'?",
+      "answers": ["Michelangelo", "Leonardo da Vinci", "Rafael", "Donatello"],
+      "correctAnswer": "Michelangelo",
+      "funFact": "Michelangelo Buonarroti es uno de los artistas más célebres del Renacimiento, conocido por su habilidad en múltiples disciplinas artísticas."
+    },
+    {
+      "id": 15,
+      "question": "¿Qué artista francés es conocido por su pintura 'La Libertad guiando al pueblo'?",
+      "answers": [
+        "Eugène Delacroix",
+        "Édouard Manet",
+        "Claude Monet",
+        "Pierre-Auguste Renoir"
+      ],
+      "correctAnswer": "Eugène Delacroix",
+      "funFact": "'La Libertad guiando al pueblo' de Eugène Delacroix es una obra maestra del romanticismo francés, representando el espíritu de la revolución."
+    },
+    {
+      "id": 16,
+      "question": "¿Qué artista español es conocido por su obra 'Guernica'?",
+      "answers": [
+        "Pablo Picasso",
+        "Salvador Dalí",
+        "Joan Miró",
+        "Antoni Tàpies"
+      ],
+      "correctAnswer": "Pablo Picasso",
+      "funFact": "'Guernica' de Pablo Picasso es una de las obras más impactantes del arte del siglo XX, simbolizando el horror de la guerra y la lucha por la paz."
+    },
+    {
+      "id": 17,
+      "question": "¿Qué pintor flamenco es conocido por su obra 'El jardín de las delicias'?",
+      "answers": [
+        "Hieronymus Bosch",
+        "Pieter Bruegel el Viejo",
+        "Jan van Eyck",
+        "Peter Paul Rubens"
+      ],
+      "correctAnswer": "Hieronymus Bosch",
+      "funFact": "'El jardín de las delicias' de Hieronymus Bosch es una obra surrealista y simbólica que ha fascinado a generaciones por sus representaciones complejas y alegóricas."
+    },
+    {
+      "id": 18,
+      "question": "¿Qué pintor británico es conocido por sus obras 'La Dama de Shalott' y 'Ophelia'?",
+      "answers": [
+        "John William Waterhouse",
+        "William Blake",
+        "John Everett Millais",
+        "Dante Gabriel Rossetti"
+      ],
+      "correctAnswer": "John William Waterhouse",
+      "funFact": "John William Waterhouse fue un pintor prerrafaelita inglés conocido por sus representaciones de temas literarios y mitológicos con un estilo romántico."
+    },
+    {
+      "id": 19,
+      "question": "¿Qué artista francés es conocido por sus esculturas 'El Pensador' y 'El Beso'?",
+      "answers": [
+        "Auguste Rodin",
+        "Camille Claudel",
+        "Émile-Antoine Bourdelle",
+        "Jean-Baptiste Carpeaux"
+      ],
+      "correctAnswer": "Auguste Rodin",
+      "funFact": "Auguste Rodin es uno de los escultores más influyentes de la historia del arte, conocido por su enfoque realista y emotivo en sus obras."
+    },
+    {
+      "id": 20,
+      "question": "¿Qué pintor español es conocido por su obra 'Las Meninas'?",
+      "answers": [
+        "Diego Velázquez",
+        "Francisco de Goya",
+        "El Greco",
+        "Bartolomé Esteban Murillo"
+      ],
+      "correctAnswer": "Diego Velázquez",
+      "funFact": "'Las Meninas' de Diego Velázquez es una de las obras maestras de la pintura española del Siglo de Oro, admirada por su complejidad y profundidad artística."
+    }
+  ]
+}

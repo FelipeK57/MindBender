@@ -6,7 +6,7 @@ export const Home = ({ setTopic }) => {
       <h1 className="title-home">Responde y aprende</h1>
       <p>Selecciona el tema del que quieres que sean las preguntas</p>
       <div className="topics-container">
-        <button className="topic-music" onClick={() => setTopic("Musica")}>
+        <button className="topic-music" onClick={() => setTopic("musica")}>
           <svg
             xmlns="http://www.w3.org/2000/svg"
             height="24px"
@@ -18,7 +18,7 @@ export const Home = ({ setTopic }) => {
           </svg>
           Música
         </button>
-        <button className="topic-sports" onClick={() => setTopic("Deportes")}>
+        <button className="topic-sports" onClick={() => setTopic("deportes")}>
           <svg
             xmlns="http://www.w3.org/2000/svg"
             height="24px"
@@ -30,7 +30,7 @@ export const Home = ({ setTopic }) => {
           </svg>
           Deportes
         </button>
-        <button className="topic-history" onClick={() => setTopic("Historia")}>
+        <button className="topic-history" onClick={() => setTopic("historia")}>
           <svg
             xmlns="http://www.w3.org/2000/svg"
             height="24px"
@@ -42,7 +42,7 @@ export const Home = ({ setTopic }) => {
           </svg>
           Historia
         </button>
-        <button className="topic-science" onClick={() => setTopic("Ciencia")}>
+        <button className="topic-science" onClick={() => setTopic("ciencia")}>
           <svg
             xmlns="http://www.w3.org/2000/svg"
             height="24px"
@@ -54,7 +54,7 @@ export const Home = ({ setTopic }) => {
           </svg>
           Ciencia
         </button>
-        <button className="topic-art" onClick={() => setTopic("Arte")}>
+        <button className="topic-art" onClick={() => setTopic("arte")}>
           <svg
             xmlns="http://www.w3.org/2000/svg"
             height="24px"
@@ -68,7 +68,7 @@ export const Home = ({ setTopic }) => {
         </button>
         <button
           className="topic-enterteiment"
-          onClick={() => setTopic("Entretenemiento")}
+          onClick={() => setTopic("entretenimiento")}
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"

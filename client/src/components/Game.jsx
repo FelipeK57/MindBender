@@ -1,7 +1,30 @@
 import React, { useState } from "react";
+import questions from "../assets/questions.json";
 
-export const Game = ({ topic }) => {
+export const Game = ({ topic, setTopic }) => {
   const [score, setScore] = useState(0);
+  const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
+
+  const topicQuestions = questions[topic];
+  const currentQuestion = topicQuestions[currentQuestionIndex];
+
+  const handleAnswerClick = (selectedAnswer) => {
+    if (selectedAnswer === currentQuestion.correctAnswer) {
+      setScore(score + 1);
+      nextQuestion();
+    } else {
+      alert("Respuesta incorrecta");
+      setTopic(null);
+    }
+  };
+
+  const nextQuestion = () => {
+    if (currentQuestionIndex + 1 < topicQuestions.length) {
+      setCurrentQuestionIndex(currentQuestionIndex + 1);
+    } else {
+      alert(`Juego terminado. Puntaje final: ${score}`);
+    }
+  };
 
   return (
     <div className="game-container">
@@ -10,13 +33,18 @@ export const Game = ({ topic }) => {
         <p>Puntaje: {score}</p>
       </div>
       <div className="game">
-        <p>Pregunta {score + 1}</p>
-        <p>¿En qué año empezo la primera guerra mundial?</p>
+        <p>Pregunta {currentQuestion.id}</p>
+        <p className="question">{currentQuestion.question}</p>
         <div className="answers-container">
-          <button className="answer-1">1912</button>
-          <button className="answer-2">1914</button>
-          <button className="answer-3">1916</button>
-          <button className="answer-4">1918</button>
+          {currentQuestion.answers.map((answer, index) => (
+            <button
+              key={index}
+              onClick={() => handleAnswerClick(answer)}
+              className={`answer-${index + 1}`}
+            >
+              {answer}
+            </button>
+          ))}
         </div>
       </div>
     </div>

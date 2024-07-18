@@ -12,7 +12,7 @@ function App() {
       {topic ? (
         <div>
           <Header />
-          <Game topic={topic} />
+          <Game topic={topic} setTopic={setTopic} />
         </div>
       ) : (
         <div>

@@ -81,6 +81,7 @@ body {
 .topic-music:hover {
   transition: 500ms;
   box-shadow: 1px 1px 10px #d9c974;
+  scale: 1.05;
 }
 
 .topic-sports {
@@ -101,6 +102,7 @@ body {
 .topic-sports:hover {
   transition: 500ms;
   box-shadow: 1px 1px 10px #9ee293;
+  scale: 1.05;
 }
 
 .topic-history {
@@ -121,6 +123,7 @@ body {
 .topic-history:hover {
   transition: 500ms;
   box-shadow: 1px 1px 10px #e5a264;
+  scale: 1.05;
 }
 
 .topic-science {
@@ -145,6 +148,7 @@ body {
 .topic-science:hover {
   transition: 500ms;
   box-shadow: 1px 1px 10px #68d1d8;
+  scale: 1.05;
 }
 
 .topic-art {
@@ -165,6 +169,7 @@ body {
 .topic-art:hover {
   transition: 500ms;
   box-shadow: 1px 1px 10px #ef7cc8;
+  scale: 1.05;
 }
 
 .topic-enterteiment {
@@ -185,6 +190,7 @@ body {
 .topic-enterteiment:hover {
   transition: 500ms;
   box-shadow: 1px 1px 10px #fa7980;
+  scale: 1.05;
 }
 
 /* GAME STYLES */
@@ -211,7 +217,7 @@ body {
   font-size: 18px;
   background-color: rgba(255, 255, 255, 0.4);
   height: 70%;
-  width: 70%;
+  width: 80%;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -223,13 +229,14 @@ body {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 30px;
+  width: 80%;
 }
 
 .answers-container button {
-  width: 450px;
+  width: 100%;
   border-radius: 20px;
   border-style: none;
-  height: 50px;
+  height: 60px;
   box-shadow: 1px 2px 10px #585555;
   color: white;
   font-weight: 600;
@@ -244,11 +251,13 @@ body {
     #ed213a
   ); /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to right, #93291e, #ed213a);
+  transition: 500ms;
 }
 
 .answer-1:hover {
   transition: 500ms;
   box-shadow: 1px 1px 10px red;
+  scale: 1.03;
 }
 
 .answer-2 {
@@ -261,6 +270,13 @@ body {
     #667db6
   ); /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to right, #667db6, #0082c8, #0082c8, #667db6);
+  transition: 500ms;
+}
+
+.answer-2:hover {
+  transition: 500ms;
+  scale: 1.03;
+  box-shadow: 1px 1px 10px #0082c8;
 }
 
 .answer-3 {
@@ -278,6 +294,12 @@ body {
   transition: 500ms;
 }
 
+.answer-3:hover {
+  transition: 500ms;
+  scale: 1.03;
+  box-shadow: 1px 1px 10px #38ef7d;
+}
+
 .answer-4 {
   background: #f7971e; /* fallback for old browsers */
   background: -webkit-linear-gradient(
@@ -286,9 +308,11 @@ body {
     #f7971e
   ); /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to right, #ffd200, #f7971e);
+  transition: 500ms;
 }
 
 .answer-4:hover {
   transition: 500ms;
+  scale: 1.03;
   box-shadow: 1px 1px 10px #ffd200;
 }
