@@ -1,5 +1,11 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import questions from "../assets/questions.json";
+import PropTypes from "prop-types";
+
+Game.propTypes = {
+  topic: PropTypes.string.isRequired,
+  setTopic: PropTypes.func.isRequired,
+};
 
 export const Game = ({ topic, setTopic }) => {
   const [score, setScore] = useState(0);

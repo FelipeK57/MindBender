@@ -1,4 +1,8 @@
-import React from "react";
+import PropTypes from "prop-types";
+
+Home.propTypes = {
+  setTopic: PropTypes.string.isRequired,
+};
 
 export const Home = ({ setTopic }) => {
   return (
